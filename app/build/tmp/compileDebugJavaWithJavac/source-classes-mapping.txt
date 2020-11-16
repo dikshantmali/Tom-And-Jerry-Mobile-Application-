@@ -1,0 +1,4 @@
+com/example/tomvsjerry/BuildConfig.java
+ com.example.tomvsjerry.BuildConfig
+com/example/tomvsjerry/MainActivity.java
+ com.example.tomvsjerry.MainActivity

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tom VS Jerry</string>
+
+    <string name="grid">My Grid</string>
+    <string name="todo">TODO</string>
+    <string name="toms_turn">Toms Turn</string>
+
+    <string name="btn">RESET</string>
+    <string name="reset">Reset</string>
+    <string name="todo2">TODO2</string>
+
+</resources>
