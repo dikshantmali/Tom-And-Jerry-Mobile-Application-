@@ -1,4 +1,7 @@
 # Tom-And-Jerry-Mobile-Application-
 
-<img src="Screenshot (70).jpg" >
+<p align="center">
+<img src="Screenshot(70).jpg">
+</p>
+
 A mobile game like Tic Tac Toe
